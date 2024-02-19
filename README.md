@@ -43,11 +43,11 @@ Este é o trabalho de conclusão de curso realizado por mim para o curso de enge
    pip install -r requirements.txt
    ```
 
-# Utilização
+## Utilização
 Para a Utilização do [Arquivo da validação de dados do BFL](main.py) ou do [Notebook com o passo a passo da métodologia](notes-Methodology-Example.ipynb) é necessário adicionar as imagens do BFL a pasta [./src/assets/BFL](./src/assets/BFL).
 > As imagens do BFL podem ser obtidas em: [Brazilian Forensic Letter Database (BFL)](https://web.inf.ufpr.br/vri/databases/brazilian-forensic-letter-database/)
 
-# Contribuição
+## Contribuição
 Contribuições são bem-vindas! Se você quiser contribuir para este projeto, siga estes passos:
 1. Fork o repositório.
 2. Crie uma nova branch (`git checkout -b feature/nova-feature`).
@@ -55,7 +55,7 @@ Contribuições são bem-vindas! Se você quiser contribuir para este projeto, s
 4. Faça push para a branch (`git push origin feature/nova-feature`).
 5. Abra um Pull Request.
 
-# Autores
+## Autores
 - Autor: João Paulo Lopes Sanchez
 - Orientador: Celso Ap. de França
 
