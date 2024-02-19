@@ -5,12 +5,12 @@ Este é o trabalho de conclusão de curso realizado por mim para o curso de enge
 
 É um modelo que se utiliza da transformada SIFT, K-mean, Bag-of-Visual-Words e SVM-Linear para identificação de autores para textos manuscritos, com a métodologia validada juntamente ao banco de cartas forenses do [Brazilian Forensic Letter Database (BFL)](https://web.inf.ufpr.br/vri/databases/brazilian-forensic-letter-database/).
 
-## Informações
-1. [Anotações da métodologia proposta se encontram](notes-Methodology-Example.ipynb)
+## Arquivos Principais
+1. [Anotações da métodologia proposta - notes-Methodology-Example.ipynb](notes-Methodology-Example.ipynb)
 
-2. [Anotações da Transformada SIFT](notes-SIFT-Transform-Example.ipynb)
+2. [Anotações da Transformada SIFT - notes-SIFT-Transform-Example.ipynb](notes-SIFT-Transform-Example.ipynb)
 
-3. [Arquivo da validação de dados do BFL](main.py)
+3. [Arquivo da validação de dados do BFL - main.py](main.py)
 
 ## Instalação
 1. Clone o repositório do projeto:
